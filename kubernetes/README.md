@@ -33,3 +33,9 @@ Cloud native is an approach to building and running applications that takes adva
 **SRE**
 
 At this point, not every developer can be an infrastructure expert, just as a single team of infrastructure experts can’t service an ever-growing number of developers. For larger organizations, while a central infrastructure team is still needed, there’s also a case for embedding site reliability engineers (SREs) into each development or product team. They bring their expertise to each team as consultants and also form a bridge between product development and infrastructure operations.
+
+**Docker**
+Containers allow you to deploy and run software in small, standardized, self-contained units. This makes it easier and cheaper to build large, diverse, distributed systems, by connecting together containerized microservices.
+
+**Kubernetes**
+Orchestration systems take care of deploying your containers, scheduling, scaling, networking, and all the things that a good system administrator would do, but in an automated, programmable way.
