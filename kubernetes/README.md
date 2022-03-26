@@ -29,3 +29,7 @@ Cloud native apps, by their nature, are harder to inspect and debug. So a key re
 **Distributed**
 
 Cloud native is an approach to building and running applications that takes advantage of the distributed and decentralized nature of the cloud. It’s about how your application works, not where it runs. Instead of deploying your code as a single entity (known as a monolith), cloud native applications tend to be composed of multiple, cooperating, distributed microservices. A microservice is simply a self-contained service that does one thing. If you put enough microservices together, you get an application.
+
+**SRE**
+
+At this point, not every developer can be an infrastructure expert, just as a single team of infrastructure experts can’t service an ever-growing number of developers. For larger organizations, while a central infrastructure team is still needed, there’s also a case for embedding site reliability engineers (SREs) into each development or product team. They bring their expertise to each team as consultants and also form a bridge between product development and infrastructure operations.
